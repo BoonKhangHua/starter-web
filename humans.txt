@@ -6,14 +6,16 @@
     <name> -- <role> -- <twitter>
     Boon Khang Hua
     boon.khang.hua@gmail.com
+    Machine Learning Engineer
 
 # THANKS
 
     <name>
+    Khang Hua
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAR
-
+    Jupyter
 # Create develop branch
