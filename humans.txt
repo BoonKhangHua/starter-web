@@ -1,6 +1,7 @@
 \# humanstxt.org/
 # The humans responsible & technology colophon
 
+Insert conflict merge for mybranch.
 
 Add text change in master branch.
 
