@@ -11,8 +11,7 @@
 # THANKS
 
     <name>
-    Khang Hua
-
+    Thanks to all my student.
 
 # TECHNOLOGY COLOPHON
 
