@@ -5,6 +5,7 @@ Add text chagne in master branch.
 
 Add text change in master branch.
 
+This is git tag commit.
 # TEAM
 
     <name> -- <role> -- <twitter>
